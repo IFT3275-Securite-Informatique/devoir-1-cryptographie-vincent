@@ -214,9 +214,6 @@ def decrypt(C):
     
     decrypted_text = "".join(decrypted_segments)
 
-    print(f"Decrypted text: {decrypted_text[:500]}")
-    input("Press Enter to continue...")
-    
     return decrypted_text
 
 
