@@ -1,5 +1,4 @@
 pytest
 numpy
 requests
-difflib
 tqdm
